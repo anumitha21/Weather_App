@@ -273,4 +273,3 @@ For issues or questions about this educational project, please refer to the Djan
 ---
 
 **Built with ❤️ using Django and MongoDB for Weather Health Advisory**
-
